@@ -1,10 +1,7 @@
-[blackbox-output-code-NCRXDPKAL9.html](https://github.com/user-attachments/files/23147868/blackbox-output-code-NCRXDPKAL9.html)
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Portfolio of [Your Name], a creative graphic designer specializing in branding and illustration.">
+    <meta name="description" content="Portfolio of [Ashok Saini], a creative graphic designer specializing in branding and illustration.">
     <title>[Your Name] - Graphic Designer Portfolio</title>
     <style>
         body { font-family: 'Arial', sans-serif; margin: 0; padding: 0; color: #333; background: linear-gradient(135deg, #f4f4f4 0%, #e0e0e0 100%); line-height: 1.6; }
